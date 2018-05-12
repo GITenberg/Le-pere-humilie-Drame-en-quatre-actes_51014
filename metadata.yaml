@@ -1,10 +1,16 @@
 _repo: Le-pere-humilie-Drame-en-quatre-actes_51014
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51014-h/images/cover.jpg
 creator:
   author:
     agent_name: Claudel, Paul
     gutenberg_agent_id: '43686'
     url: http://www.gutenberg.org/2009/agents/43686
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51014#Le-pere-humilie-Drame-en-quatre-actes
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Théâtre
